@@ -1,20 +1,30 @@
-# Hydejack Starter Kit
+# 이것저것 경험 담기
 
-A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
+## Wowza
+Wowza 스터디 내용
 
-## Quick Start
-### Running locally
-1. Clone repository (git users), or [download] and unzip.
-2. Open terminal, `cd` into root directory (where `_config.yml` is located)
-3. Run `bundle install` [^1]
-4. Run `bundle exec jekyll serve`
-5. Open <http://localhost:4000/hydejack-starter-kit/>
+## AWS&Tencent
+AWScloud, TencentCloud <br>
+aws S3, Ceph, minio
+ 
+## Php&Laravel
+Php 내용 <br>
+laravel 내용
 
-## What's next?
-* Open files and read the comments
-* Read the [docs](https://hydejack.com/docs/)
-* Buy the [PRO version](https://hydejack.com/download/) to get the project and resume layout, newsletter subscription box, custom forms, and more.
+## Java&Spring
+java내용 <br>
+Spring 내용
 
-[^1]: Requires Bundler. Install with `gem install bundler`.
+## Vue
+Vue내용
 
-[download]: https://github.com/hydecorp/hydejack-starter-kit/archive/master.zip
+## React
+React내용
+
+## DevOps
+Docker내용 <br>
+linux사용시 이용했던 내용 <br>
+Vm 사용시 짰던 스크립트 도움받았던 스크립트 <br>
+
+## Error
+java, spring, react, vue 내용들 오류사항들 정리
