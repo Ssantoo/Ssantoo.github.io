@@ -20,7 +20,7 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Starter Kit
+title:                 NOW
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -29,7 +29,7 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               현재에 충실 하는
 
 # A list of keywords for your blog
 keywords:              []
@@ -42,19 +42,29 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                <cho> <now>
+  email:               <nowing0108@kakao.com>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
-  - title:             About
-    url:               /about/
+  - title: Java & Spring
+    url:   /java/
+  - title: Php & Laravel
+    url:   /php/
+  - title: Vue
+    url:   /vue/
+  - title: React
+    url:   /react/
+  - title: DevOps
+    url:   /devops/
+  - title: AWS & Tencent
+    url:    /aws/
+  - title: Wowza
+    url:    /wowza/
+  - title: Error
+    url:    /error/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
